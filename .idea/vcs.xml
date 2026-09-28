@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BLOQUE_1_VARIABLES_Y_TIPOS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BLOQUE_2_OPERADORES_Y_EXPRESIONES" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BLOQUE_3_CONDICIONALES_Y_DECISIONES" vcs="Git" />
+  </component>
+</project>
